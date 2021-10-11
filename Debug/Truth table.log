@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\shiml\source\repos\Truth table\test.cpp(94,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shiml\source\repos\Truth table\test.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shiml\source\repos\Truth table\test.cpp(196,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shiml\source\repos\Truth table\test.cpp(379,21): warning C4018: '<': signed/unsigned mismatch
+  Truth table.vcxproj -> C:\Users\shiml\source\repos\Truth table\Debug\Truth table.exe
